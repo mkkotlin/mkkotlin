@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Kumar (@mkkotlin)
 - Skills:
--     Django, Python, R, Kotlin, Android, Tkinter, Java, JavaScript, C, C++, Stackoverflow
+-     Django, Python, R, Kotlin, Android, Tkinter, FastApi, Java, JavaScript, C, C++, Stackoverflow, C#, Go
 - Currently Employed at Infosys Limited
 - 👀 I’m interested in ...  apps(Kotlin), website(html,css,js,nodejs)
 - 🌱 I’m currently learning ... kotlin for app dev.
