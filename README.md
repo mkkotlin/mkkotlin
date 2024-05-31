@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @mkkotlin
+- Skills:
+-     Django, Python, Kotlin, Android, Tkinter, Java, Stackoverflow
+- Currently Employed at Infosys Limited
 - 👀 I’m interested in ...  apps(Kotlin), website(html,css,js,nodejs)
 - 🌱 I’m currently learning ... kotlin for app dev.
 - 💞️ I’m looking to collaborate on ... web and android
