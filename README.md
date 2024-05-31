@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkkotlin
+- 👋 Hi, I’m Mayank Kumar (@mkkotlin)
 - Skills:
 -     Django, Python, Kotlin, Android, Tkinter, Java, Stackoverflow
 - Currently Employed at Infosys Limited
