@@ -44,3 +44,27 @@ Backend-focused developer interested in building scalable and practical web appl
 - Background sync patterns
 - Secure backend architecture
 - Deployment workflows
+
+## Areas of Interest
+
+- Backend engineering
+- Offline-first systems
+- API architecture
+- Real-time systems
+- System design fundamentals
+
+## Open To
+
+- Collaborating on open-source projects
+- Discussing system design and architecture
+- Building scalable backend solutions
+- Contributing to meaningful projects
+
+## Let's Connect
+
+- 💬 Open to discussions about backend architecture, system design, and web technologies
+- 📧 Feel free to reach out for collaboration opportunities
+
+---
+
+*Building robust systems, one API at a time.*
