@@ -36,7 +36,7 @@ Backend-focused developer interested in building scalable and practical web appl
 - Git & GitHub
 - Docker
 - Postman
-- Linux basics
+- Linux
 
 ## Currently Exploring
 - System design
@@ -63,7 +63,7 @@ Backend-focused developer interested in building scalable and practical web appl
 ## Let's Connect
 
 - 💬 Open to discussions about backend architecture, system design, and web technologies
-- 📧 Feel free to reach out for collaboration opportunities
+- 📧 Feel free to reach out for collaboration opportunities | 123.ultron.1234@gmail.com
 
 ---
 
