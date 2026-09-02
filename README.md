@@ -71,12 +71,31 @@ Backend-focused software engineer with a passion for designing resilient systems
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/mkkotlin/CRISPR-LAB">CRISPR-LAB</a> & <a href="https://github.com/mkkotlin/AsynColl">AsynColl</a></h3>
-      <p>Domain-specific lab sequence tool and high-performance asynchronous data collection pipelines.</p>
+      <h3>🧬 <a href="https://github.com/mkkotlin/CRISPR-LAB">CRISPR-LAB</a></h3>
+      <p>Bioinformatics sequence analysis & CRISPR lab data tooling.</p>
       <p>
+        <img src="https://img.shields.io/badge/Bioinformatics-007ACC?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AsyncIO-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 <a href="https://github.com/mkkotlin/AsynColl">AsynColl</a></h3>
+      <p>Asynchronous Kanban-style real-time collaboration board built with Django & WebSockets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/mkkotlin/ConnectNest">ConnectNest</a></h3>
+      <p>Django-based social network with friend request systems, timeline sharing, and AI-powered search.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Search-007ACC?style=flat-square" />
       </p>
     </td>
   </tr>
